@@ -42,4 +42,4 @@ A website where patients can diagnose themselves online by just logging in to ou
 
 
 
-you can't make the this web site by just copying the codes ☹️😞
+you can't make this web site by just copying the codes ☹️😞
